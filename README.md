@@ -55,7 +55,7 @@ Desarrollador web con formación en DAW.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoseBenitezAlba&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JoseBenitezAlba&theme=tokyonight&no-frame=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
