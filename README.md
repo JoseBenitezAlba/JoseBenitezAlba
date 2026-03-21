@@ -28,8 +28,10 @@ Desarrollador web con formación en DAW.
 
 ---
 
-### 🌐 [Portafolio][(https://github.com/JoseBenitezAlba/Portafolio](https://josebenitezalba.github.io/Portafolio/))
+### 🌐 [Portafolio](https://josebenitezalba.github.io/Portafolio/)
 > Mi carta de presentación como desarrollador web.
+· [Ver repositorio](https://github.com/JoseBenitezAlba/Portafolio)
+
 
 ---
 
