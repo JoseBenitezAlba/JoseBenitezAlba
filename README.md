@@ -2,7 +2,6 @@
 
 Desarrollador web con formación en DAW.
 
-
 ---
 
 ## 🛠️ Tecnologías
@@ -19,7 +18,7 @@ Desarrollador web con formación en DAW.
 
 ## 🚀 Proyectos destacados
 
-### 🏊 [PoolBook](https://github.com/JoseBenitezAlba/poolbook) —
+### 🏊 [PoolBook](https://github.com/JoseBenitezAlba/poolbook)
 > Aplicación web para gestionar reservas de carriles en una piscina.
 
 - 🔐 Registro de usuarios con sistema de roles (usuario / admin)
@@ -63,5 +62,5 @@ Desarrollador web con formación en DAW.
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-benítez-alba-133682322/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-ben%C3%ADtez-alba-133682322/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseBenitezAlba)
