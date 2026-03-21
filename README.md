@@ -19,7 +19,7 @@ Desarrollador web con formación en DAW.
 
 ## 🚀 Proyectos destacados
 
-### 🏊 [PoolBook](https://github.com/JoseBenitezAlba/poolbook) — *Proyecto estrella*
+### 🏊 [PoolBook](https://github.com/JoseBenitezAlba/poolbook) —
 > Aplicación web para gestionar reservas de carriles en una piscina.
 
 - 🔐 Registro de usuarios con sistema de roles (usuario / admin)
