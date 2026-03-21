@@ -37,13 +37,12 @@ Desarrollador web con formación en DAW.
 
 ### Otros proyectos
 
-| Proyecto | Descripción |
-|---|---|
-| [🧮 Calculadora](https://github.com/JoseBenitezAlba/Calculadora) | Calculadora con modo claro/oscuro, sonidos y soporte de teclado |
-| [🍺 Cervecería](https://github.com/JoseBenitezAlba/cerveceria) | Web de una cervecería hecha con HTML y CSS |
-| [💻 Ejercicios HTML & CSS](https://github.com/JoseBenitezAlba/ejercicios-html-css) | Ejercicios de maquetación web |
-| [⚡ Ejercicios JavaScript](https://github.com/JoseBenitezAlba/EjerciciosJavascript) | Prácticas con JavaScript |
-
+| Proyecto | Descripción | |
+|---|---|---|
+| [🧮 Calculadora](https://josebenitezalba.github.io/Calculadora/) | Calculadora con modo claro/oscuro, sonidos y soporte de teclado | [ver código](https://github.com/JoseBenitezAlba/Calculadora) |
+| [🍺 Cervecería](https://josebenitezalba.github.io/cerveceria/) | Web de una cervecería hecha con HTML y CSS | [ver código](https://github.com/JoseBenitezAlba/cerveceria) |
+| [💻 Ejercicios HTML & CSS](https://josebenitezalba.github.io/ejercicios-html-css/) | Ejercicios de maquetación web | [ver código](https://github.com/JoseBenitezAlba/ejercicios-html-css) |
+| [⚡ Ejercicios JavaScript](https://github.com/JoseBenitezAlba/EjerciciosJavascript) | Prácticas con JavaScript | |
 ---
 
 ## 📊 Estadísticas
