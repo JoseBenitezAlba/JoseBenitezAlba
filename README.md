@@ -1,4 +1,4 @@
-# José Benitez Alba 👋
+# José Manuel Benitez Alba 👋
 
 Desarrollador web con formación en DAW.
 
