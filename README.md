@@ -28,4 +28,5 @@ Página personal con canvas de partículas, parallax y scroll reveal en JavaScri
 
 ## Contacto
 
-[LinkedIn](www.linkedin.com/in/jose-manuel-benitez-alba) · [jombenalb@gmail.com](mailto:jombenalb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jose-manuel-benitez-alba/) · [jombenalb@gmail.com](mailto:jombenalb@gmail.com)
+
