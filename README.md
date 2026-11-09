@@ -1,6 +1,6 @@
-# Jose Manuel Benítez
+# Jose Manuel Benítez Alba
 
-Desarrollador web con formación en DAW. Enfocado en frontend y con experiencia práctica en Laravel.
+Desarrollador web con PHP, Laravel y MySQL. Tengo formación en DAW y ASIR y he realizado prácticas de desarrollo con Drupal. Mi proyecto principal es PoolBook, una aplicación de reservas de carriles de piscina desarrollada como proyecto final del DAW.
 
 ---
 
