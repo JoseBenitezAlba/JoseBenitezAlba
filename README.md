@@ -12,9 +12,20 @@ HTML · CSS · JavaScript · PHP · Laravel · MySQL · Tailwind CSS · Git
 
 ## Proyectos
 
-**[PoolBook](https://github.com/JoseBenitezAlba/poolbook)**
-Aplicación web para gestionar reservas de carriles en una piscina. Autenticación con roles, calendario interactivo con FullCalendar, backend en Laravel 10 y MySQL. Desplegado en Render.
-[Ver en producción](https://poolbook.onrender.com/)
+### PoolBook
+
+Reservas de carriles de piscina, con calendario, bonos de sesiones y permisos de usuario y administrador. Mi proyecto final de DAW, desarrollado con Laravel, MySQL y JavaScript.
+
+[![Calendario de reservas de PoolBook](https://github.com/JoseBenitezAlba/poolbook/blob/main/docs/screenshots/5-reservas.gif?raw=true)](https://poolbook.onrender.com/)
+
+**[Probar PoolBook](https://poolbook.onrender.com/)** · **[Ver código](https://github.com/JoseBenitezAlba/poolbook)**
+
+La demo usa el plan gratuito de Render; el primer acceso puede tardar unos segundos.
+
+### Otros proyectos
+
+**[Pulso](https://github.com/JoseBenitezAlba/pulso)**
+Reproductor de música local para Android, sin anuncios ni conexión, con listas y reproducción en segundo plano. [Descargar APK y ver versiones](https://github.com/JoseBenitezAlba/pulso/releases)
 
 **[Calculadora JS](https://josebenitezalba.github.io/Calculadora/)**
 Calculadora con modo claro/oscuro, sonidos por tipo de acción y soporte de teclado. Sin dependencias externas.
@@ -29,4 +40,3 @@ Página personal con canvas de partículas, parallax y scroll reveal en JavaScri
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/jose-manuel-benitez-alba/) · [jombenalb@gmail.com](mailto:jombenalb@gmail.com)
-
